@@ -1,6 +1,6 @@
 # 🍽️ Turning Yelp Data into Restaurant Intelligence
 
-### End-to-End Python & SQL Analytics in Jupyter Notebook
+### End-to-End Python, SQL & Time Series Analytics in Jupyter Notebook
 
 > 💻 **Entire project developed in Python Jupyter Notebook**, with SQL queries executed directly against a SQLite database for data extraction, transformation and analysis.
 
